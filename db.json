@@ -1,11 +1,9 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+	"Simpsons": [{
+		"name": "Homer",
+		"description": "Father"
+	}, {
+		"name": "Marge",
+		"description": "Mother"
+	}]
 }
